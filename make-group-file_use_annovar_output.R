@@ -1,8 +1,7 @@
 #!/usr/bin/env Rscript
+# xinxin guo # change groupfile to all type 
 
 
-
-###marker id is chr:pos:ref:alt
 options(stringsAsFactors=F)
 print(sessionInfo())
 
